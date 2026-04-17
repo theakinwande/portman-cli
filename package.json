@@ -1,6 +1,6 @@
 {
   "name": "portman-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Developer CLI for managing local port conflicts",
   "bin": {
     "portman": "dist/index.js"
@@ -9,7 +9,6 @@
   "files": [
     "dist"
   ],
-  
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
