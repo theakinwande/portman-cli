@@ -1,7 +1,7 @@
-## portman-cli
+## @ikole/portman
 
-[![npm version](https://img.shields.io/npm/v/portman-cli.svg)](https://www.npmjs.com/package/portman-cli)
-[![license](https://img.shields.io/npm/l/portman-cli.svg)](./LICENSE)
+[![npm version](https://img.shields.io/npm/v/@ikole/portman.svg)](https://www.npmjs.com/package/@ikole/portman)
+[![license](https://img.shields.io/npm/l/@ikole/portman.svg)](./LICENSE)
 [![platforms](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-blue.svg)](#platform-support)
 
 A developer CLI for managing local port conflicts across projects.
@@ -13,7 +13,7 @@ If you juggle multiple services on your machine — a Rails API on 3000, a Next.
 ### Installation
 
 ```bash
-npm install -g portman-cli
+npm install -g @ikole/portman
 ```
 
 Requires Node.js 18 or newer.
@@ -145,4 +145,4 @@ Please keep changes focused, include a clear description of the problem being so
 
 ### License
 
-MIT © portman-cli contributors
+MIT © @ikole/portman contributors
