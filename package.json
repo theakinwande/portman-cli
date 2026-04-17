@@ -1,5 +1,5 @@
 {
-  "name": "portman-cli",
+  "name": "@ikole/portman",
   "version": "0.1.1",
   "description": "Developer CLI for managing local port conflicts",
   "bin": {
